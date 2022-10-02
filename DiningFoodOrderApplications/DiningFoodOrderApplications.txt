@@ -1,0 +1,33 @@
+  ***HOTEL DINING TABLE FOOD ORDER MANAGEMENT***
+
+Main Class - FoodOrderApplication
+
+ 1) startprocess()
+   * Check Table Availability
+
+SubClass - DiningFoodOrder
+
+ 1) displayMenu()
+ 2) orderFood()
+ 3) generateBill()
+ 4) Exit
+
+SubClass - FoodMenu
+
+1) menu()
+  * Burger
+  * Pizza
+  * Sandwiches
+  * Shawarmas
+  * Fries
+  * Desserts & Beverages
+
+2) orderFood()
+  * orderBurger()
+  * orderPizza()
+  * orderSandwiches()
+  * orderShawarmas()
+  * orderFries()
+  * orderDessertsBeverages()
+
+3) bill()
